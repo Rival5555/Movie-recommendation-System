@@ -123,8 +123,8 @@ POST /api/user/ratings - Rate a movie
 ```
 
 ## Dataset
-The system uses the [MovieLens](https://grouplens.org/datasets/movielens/) dataset, which includes:
-- 100,000+ ratings from 1,000+ users on 1,700+ movies
+The system uses the [MovieLens](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) dataset, which includes:
+- 100,00+ ratings from 100+ users on 5,000 movies
 - Movie metadata including titles, genres, and release dates
 - User demographic information
 
